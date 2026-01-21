@@ -1,6 +1,6 @@
 {
   "name": "Sepolia Test Tokens",
-  "logoURI": "https://raw.githubusercontent.com/<username>/pancake-tokenlist/main/logos/certs.png",
+  "logoURI": "https://raw.githubusercontent.com/sandeepparimi/pancake-tokenlist/refs/heads/main/logos/sand.png",
   "keywords": ["testnet", "sepolia", "erc20"],
   "timestamp": "2026-01-21T00:00:00+00:00",
   "tokens": [
@@ -10,7 +10,7 @@
       "name": "SAND Token",
       "symbol": "SAND",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/<username>/pancake-tokenlist/main/logos/certs.png"
+      "logoURI": "https://raw.githubusercontent.com/sandeepparimi/pancake-tokenlist/refs/heads/main/logos/sand.png"
     }
   ],
   "version": {
