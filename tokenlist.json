@@ -1,11 +1,7 @@
 {
-  "name": "BETA Token List",
+  "name": "BETA Token",
+  "logoURI": "https://raw.githubusercontent.com/sandeepparimi/pancake-tokenlist/refs/heads/main/logos/beta.png",
   "timestamp": "2026-02-06T00:00:00+00:00",
-  "version": {
-    "major": 1,
-    "minor": 0,
-    "patch": 0
-  },
   "tokens": [
     {
       "chainId": 137,
@@ -13,7 +9,12 @@
       "name": "BETA Token",
       "symbol": "BETA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sandeepparimi/pancake-tokenlist/main/logos/beta.png"
+      "logoURI": "https://raw.githubusercontent.com/sandeepparimi/pancake-tokenlist/refs/heads/main/logos/beta.png"
     }
-  ]
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
 }
