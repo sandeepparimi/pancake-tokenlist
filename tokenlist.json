@@ -1,16 +1,16 @@
 {
-  "name": "Sepolia Test Tokens",
-  "logoURI": "https://raw.githubusercontent.com/sandeepparimi/pancake-tokenlist/refs/heads/main/logos/sand.png",
-  "keywords": ["testnet", "sepolia", "erc20"],
-  "timestamp": "2026-01-21T00:00:00+00:00",
+  "name": "BETA Token",
+  "logoURI": "https://raw.githubusercontent.com/sandeepparimi/pancake-tokenlist/refs/heads/main/logos/beta.png",
+  "keywords": ["mainnet", "polygon", "erc20"],
+  "timestamp": "2026-02-06T00:00:00+00:00",
   "tokens": [
     {
-      "chainId": 11155111,
-      "address": "0x761AC6cC4CD3cFD555d47BDCFb824D3E0Bc07a30",
-      "name": "SAND Token",
-      "symbol": "SAND",
+      "chainId": 137,
+      "address": "0xD8a00Eca878A753Ee314A4F46C1272E1f4e2E794",
+      "name": "BETA Token",
+      "symbol": "BETA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sandeepparimi/pancake-tokenlist/refs/heads/main/logos/sand.png"
+      "logoURI": "https://raw.githubusercontent.com/sandeepparimi/pancake-tokenlist/refs/heads/main/logos/beta.png"
     }
   ],
   "version": {
